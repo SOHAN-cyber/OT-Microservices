@@ -3,6 +3,6 @@ attendance:
 
 mysql:
   db_name: "attendance_db"
-  host: "mysql-dev-dev"
+  host: "mysql-dev"
   username: root
   password: password

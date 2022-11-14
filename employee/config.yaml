@@ -1,7 +1,7 @@
 ---
 elasticsearch:
   enabled: true
-  host: http://empms-es:9200
+  host: http://elastisearch-dev-dev:9200
   username: elastic
   password: elastic
 

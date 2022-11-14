@@ -4,5 +4,5 @@ attendance:
 mysql:
   db_name: "attendance_db"
   host: "172.20.50.133"
-  username: admin
+  username: root
   password: password
